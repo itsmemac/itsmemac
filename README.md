@@ -15,7 +15,7 @@
 <a href="https://twitter.com/itsmemacyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmemacyt" height="30" width="40" /></a>
 <a href="https://fb.com/itsmemacyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmemacyt" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmemacyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmemacyt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itsmemac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmemac" height="30" width="40" /></a>
+<a href="https://www.youtube.com/itsmemac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmemac" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
